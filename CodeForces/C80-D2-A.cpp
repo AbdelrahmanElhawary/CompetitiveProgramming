@@ -1,17 +1,7 @@
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
 #endif
-#include<iostream>
-#include<map>
-#include<cmath>
-#include<algorithm>
-#include<string>
-#include<set>
-#include<sstream>
-#include<vector>
-#include<string.h>
-#include<queue>
-#include<list>
+#include<bits/stdc++.h>
 #define F first
 #define S second
 #define ll long long
